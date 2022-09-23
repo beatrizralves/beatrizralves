@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Beatriz Alves
+ I'm Beatriz Alves
 ##
   ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizralves&show_icons=true&theme=great-gatsby)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizralves&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
