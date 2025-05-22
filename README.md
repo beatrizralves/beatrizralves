@@ -1,7 +1,5 @@
 <h1 align="center">Hi there👋, I'm Beatriz Alves</h1>
 <h3 align="center">Telecommunications and Informatics Engineer | Master's Thesis in Progress | Full-Stack Developer</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
