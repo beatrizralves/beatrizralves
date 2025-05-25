@@ -11,10 +11,6 @@
 </div>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/beatrizralves/beatrizralves/output/snake.svg" alt="Snake animation" />
-
 
 <br><br> <!-- duas linhas de espaço -->
 
